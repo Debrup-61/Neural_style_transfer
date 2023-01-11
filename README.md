@@ -17,6 +17,6 @@
   <img src="images/park.png" width="300" height="400"/> 
 </p>
 
-<p align="center"><img src="images/park_style.png" width="350" height="400"/></p>
+<p align="center"><img src="images/park_style.png" width="350" height="300"/></p>
 </br>
 
