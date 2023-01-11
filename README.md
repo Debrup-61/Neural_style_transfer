@@ -11,12 +11,12 @@
 </br>
 
 <p float="left" align="middle">
-  <img src="images/anne_hathaway.png" width="300" height="300"/>
+  <img src="images/anne_hathaway.png" width="300" height="400"/>
   &nbsp;
   &nbsp;
-  <img src="images/park.png" width="300" height="300"/> 
+  <img src="images/park.png" width="300" height="400"/> 
 </p>
 
-<p align="center"><img src="images/park_style.png" width="600" height="400"/></p>
+<p align="center"><img src="images/park_style.png" width="300" height="400"/></p>
 </br>
 
