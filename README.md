@@ -7,7 +7,7 @@
   <img src="images/stary_night.jpeg" width="400" height="auto"/> 
 </p>
 
-<p align="center"><img src="images/best.png" width="600" height="400"/></p>
+<p align="center"><img src="images/best.png" width="400" height="400"/></p>
 </br>
 
 <p float="left" align="middle">
