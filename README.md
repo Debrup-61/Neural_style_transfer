@@ -1,4 +1,4 @@
-# Neural_style_transfer
+# Neural style transfer
 
 <p float="left" align="middle">
   <img src="images/golden_la.jpeg" width="400" height="auto"/>
